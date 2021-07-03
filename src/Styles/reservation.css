@@ -1,0 +1,10 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+.boxed {
+    width: 500px;
+    border: 15px solid rgb(54, 154, 221);
+    padding: 50px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;       
+  }

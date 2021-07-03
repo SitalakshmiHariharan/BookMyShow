@@ -1,0 +1,237 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Thor",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61%2Bbj6-zqXL._AC_.jpg",
+        "genre": "Action, Adenture, comedy",
+        "director": "Taika Waititi",
+        "stars": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",
+        "plot": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+        "currency": "THB",
+        "prices": {
+          "normal": 200,
+          "superior": 300,
+          "sofa": 600
+        }
+      },
+      {
+        "id": 2,
+        "title": "Wonder woman",
+        "genre": "Action, Adenture, Fantasy",
+        "director": "Patty Jenkins",
+        "stars": "Gal Gadot, Chris Pine, Robin Wright, Lucy Davis",
+        "plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51JwsfzqaJL._AC_.jpg",
+        "currency": "THB",
+        "prices": {
+          "normal": 200,
+          "superior": 300,
+          "sofa": 600
+        }
+      },
+      {
+        "id": 3,
+        "title": "Logan",
+        "genre": "Action, Drama, Sci-Fi",
+        "director": "James Mangold ",
+        "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+        "plot": "In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+        "image": "https://www.joblo.com/assets/images/oldsite/posters/images/full/logan-poster-sunset-2_thumb.jpg",
+        "currency": "THB",
+        "prices": {
+          "normal": 200,
+          "superior": 300,
+          "sofa": 600
+        }
+      },
+      {
+        "id": 4,
+        "title": "Despicable me 3",
+        "genre": "Action, Drama, Sci-Fi",
+        "director": "James Mangold ",
+        "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+        "plot": "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7V6-MJNwLm9VLXGMok4Q-FyKy1v8CpXWMA&usqp=CAU",
+        "currency": "THB",
+        "prices": {
+          "normal": 200,
+          "superior": 300,
+          "sofa": 600
+        }
+      },
+      {
+        "id": 5,
+        "title": "Star war",
+        "genre": "Action, Drama, Sci-Fi",
+        "director": "James Mangold ",
+        "stars": "Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+        "plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Star_Wars_Phantom_Menace_poster.jpg",
+        "currency": "THB",
+        "prices": {
+          "normal": 200,
+          "superior": 300,
+          "sofa": 600
+        }
+      },
+      {
+        "id": 6,
+        "title": "Pitch Perfect 3",
+        "genre": "Animation, Action, Adventure",
+        "director": "Trish Sie",
+        "stars": "Anna Kendrick, Rebel Wilson, Brittany Snow, Anna Camp",
+        "plot": "Following their win at the world championship, the now separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/817vJbDUh-L._AC_SY679_.jpg",
+        "currency": "THB",
+        "prices": {
+          "normal": 200,
+          "superior": 300,
+          "sofa": 600
+        }
+      },
+      {
+        "id": 7,
+        "title": "Opération casse-noisette 2",
+        "genre": "Animation, Action, Adventure",
+        "director": "Cal Brunker",
+        "stars": "Will Arnett, Maya Rudolph, Bobby Cannavale, Bobby Moynihan",
+        "plot": "Following the events of the first film, Surly and his friends must stop Oakton City's mayor from destroying their home to make way for a dysfunctional amusement park.",
+        "image": "https://fr.web.img6.acsta.net/r_1280_720/pictures/17/07/18/14/41/480782.jpg",
+        "currency": "THB",
+        "prices": {
+          "normal": 200,
+          "superior": 300,
+          "sofa": 600
+        }
+      }
+    ],
+    "transactions": [
+      {
+        "movieId": 4,
+        "price": 200,
+        "currency": "THB",
+        "userId": "he6fe54u4s56o71d36z51no",
+        "id": 1
+      },
+      {
+        "movieId": 2,
+        "price": 300,
+        "currency": "THB",
+        "userId": "he6fe54u4s56o71d36z51no",
+        "id": 2
+      },
+      {
+        "movieId": 5,
+        "price": 300,
+        "currency": "THB",
+        "userId": "he6fe54u4s56o71d36z51no",
+        "id": 3
+      }
+    ],
+    "recommended":[
+      {
+        "_id": "5ab12612f36d2879268f284a",
+        "name": "Black Panther",
+        "language": "ENGLISH",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "desc": "A sequel that will continue to explore the incomparable world of Wakanda and all the rich and varied characters introduced in the 2018 film. Black Panther star Chadwick Boseman can't be replaced, but the world of his character will live on. Director Ryan Coogler is returning to direct Black Panther: The film is scheduled to hit theaters on July 8, 2022.",
+        "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+      },
+      {
+        "_id": "5ab12666f36d2879268f2902",
+        "name": "Death Wish",
+        "language": "ENGLISH",
+        "type": "Action Crime Thriller",
+        "rate": 3.2,
+        "desc":"Death Wish is an American vigilante action thriller film directed by Eli Roth and written by Joe Carnahan. It is a remake of the 1974 film of the same name, based on Brian Garfield's 1972 novel. The film stars Bruce Willis as Paul Kersey, a Chicago doctor who sets out to get revenge on the men who attacked his family.                  ",
+        "imageUrl": "https://image.ibb.co/gC9PfH/dw.jpg"
+      },
+      {
+        "_id": "5ab12678f36d2879268f291d",
+        "name": "Coco",
+        "language": "ENGLISH",
+        "type": "Adventure Animation Family",
+        "rate": 5,
+        "desc":"Coco is an American computer-animated fantasy film produced by Pixar Animation Studios and released by Walt Disney Pictures. It is directed by Lee Unkrich and co-directed by Adrian Molina. The film's voice cast stars Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renée Victor, Ana Ofelia Murguía and Edward James Olmos.",
+        "imageUrl": "https://image.ibb.co/dQwWSx/coco.jpg"
+      }
+    ],
+    "upcomingMovies":[
+      {
+        "_id": "5ab12612f36d2879268f284a",
+        "name": "Shang-Chi and the Legend of the Ten Rings",
+        "language": "ENGLISH",
+        "date": "September 2021",
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/10/shang-chi-logo.jpg?q=50&fit=crop&w=750&dpr=1.5"
+      },
+      {
+        "_id": "5ab12666f36d2879268f2902",
+        "name": "Eternals",
+        "language": "ENGLISH",
+        "type": "Action Fantasy",
+        "date": "November 2021",
+        "imageUrl": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/eternals-character-guide.jpg?q=50&fit=crop&w=316&h=223&dpr=1.5"
+      },
+      {
+        "_id": "5ab12678f36d2879268f291d",
+        "name": "The Matrix 4",
+        "language": "ENGLISH",
+        "type": "Adventure Action",
+        "date": "December 2021",
+        "imageUrl": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2019/03/keanu-reeves-the-matrix-600x375.jpg?q=50&fit=crop&w=750&dpr=1.5"
+      }
+    ],
+    "events":[
+      {
+        "_id": "5ab126b6f36d2879268f2943",
+        "name": "Avengers",
+        "language": "ENGLISH",
+        "type": "Action",
+        "rate": 2,
+        "imageUrl": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/01/Pictures/_46a0b2c0-3590-11e8-8c5f-3c6cc031651e.jpg"
+      },
+      {
+        "_id": "5ab4e66b0c1d2b27846c6407",
+        "name": "Black Friday",
+        "language": "ENGLISH",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+      }
+    ],
+    "latest":[
+      {
+        "id": 1,
+        "name": "Spirit Untamed",
+        "language": "ENGLISH",
+        "rate": "5.4",
+        "desc":"Lucky Prescott's life is changed forever when she moves from her home in the city to a small frontier town and befriends a wild mustang named Spirit.",
+        "type": "Animation Adventure Family",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgy9asaiFz_DH1bS-4DCOBBAs6RxVJ3P-mA&usqp=CAU",
+        "showtimes":[
+          {}
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Fatherhood",
+        "language": "ENGLISH",
+        "type": "Comedy Drama",
+        "rate": "6.7",
+        "desc":"A father brings up his baby girl as a single dad after the unexpected death of his wife who died a day after their daughter's birth.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Fatherhood_poster.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Rurouni Kenshin: The Final",
+        "language": "ENGLISH",
+        "type": "Adventure Action Drama",
+        "rate": "7.3",
+        "desc":"The film focuses on the pacifist wanderer Himura Kenshin who is brought on a fight involving revenge by Yukishiro Enishi. It is the fourth installment in the Rurouni Kenshin film series, following Rurouni Kenshin: The Legend Ends",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Rurouni_Kenshin_The_Final.jpg"
+      }
+    ]
+  }
